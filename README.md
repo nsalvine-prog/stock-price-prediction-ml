@@ -1,4 +1,4 @@
-# Stock Market Forecasting Using LSTM, Prophet, ARIMA, XGBOOST & Regression
+# Advanced Stock Market Forecasting with Deep Learning & Statistical Models
 
 ## Overview
 Stock market prediction is one of the most challenging tasks in financial analytics. Stock prices are influenced by market sentiment, global events, economic indicators, and company performance.  
